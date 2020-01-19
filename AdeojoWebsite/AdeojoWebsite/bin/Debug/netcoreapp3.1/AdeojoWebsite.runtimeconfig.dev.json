@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ptemi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ptemi\\.nuget\\packages"
+    ]
+  }
+}
